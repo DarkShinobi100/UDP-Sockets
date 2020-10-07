@@ -1,0 +1,2 @@
+C:\Users\User\Documents\C++\Networking\UDP-Sockets\server\Debug\server.exe
+C:\Users\User\Documents\C++\Networking\UDP-Sockets\server\Debug\server.pdb
